@@ -7,7 +7,7 @@ const Preview = (props) => {
       </div>
     </div>
   );
-
+  
 }
 
 export default Preview;
